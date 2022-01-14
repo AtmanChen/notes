@@ -1,0 +1,7 @@
+## git cherry-pick situation 
+`1. Branch A and B. 
+ 2. A commit with hash value 77dsa09s on branch B.
+ 3. cherry-pick that commit to branch A
+ 4. git fetch 
+ 5. on branch A. git cherry-pick 77dsa09s
+`  
